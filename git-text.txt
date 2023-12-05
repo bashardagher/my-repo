@@ -1,2 +1,4 @@
 git text
 git diff
+git diff after commit
+
