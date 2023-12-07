@@ -6,4 +6,10 @@ hi i am a **front-end web developer** with bold.
 
 hi i am a _front-end web developer_ with em,italic.
 
-my page on facebook [visit now](https://www.facebook.com "go now")
+my page on facebook [visit now](https://www.facebook.com "go now").
+
+to write code.
+
+```html
+<html></html>
+```
